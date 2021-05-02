@@ -1,0 +1,47 @@
+# Compiled class file
+*.class
+
+# Eclipse
+.classpath
+.project
+.metadata
+/bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+*/.classpath
+*/.project
+*/.metadata
+*/bin/
+*/tmp/
+*/.settings/
+*/.loadpath
+*/.recommenders
+# External tool builders
+.externalToolBuilders/
+
+
+# Serenity-BDD
+/target/
+*/target/
+
+# Intellij
+/.idea/
+/out//
+*/.idea/
+*/out/
+
+# Gradle
+/.gradle/
+/build/
+*/.gradle/
+*/build/
+
+# Driver
+chromedriver.exe
